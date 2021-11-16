@@ -1,14 +1,12 @@
 ### Hi there, I'm Amanda Fonseca 👋
 
-🔭 I’m currently working on a capstone project to button up my journey with Codeup.
+🌱 I’m currently working on strengthing my skills in front-end and back-end development through Udemy courses.
 
 👀 I’m interested in website design, graphic design, photography, and videography.
 
 📕 Skills: JavaScript, HTML, CSS, and JQuery.
 
 👯 I’m looking to collaborate on anything that will help me become a better software developer.
-
-🌱 I’m currently working on strengthing my skills in front-end and back-end development through Udemy courses.
 
 💬 Ask me about my journey from the zoo world to the tech industry.
 
