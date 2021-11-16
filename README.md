@@ -1,6 +1,6 @@
 ### Hi there, I'm Amanda Fonseca 👋
 
-🔭 I’m currently working on capstone projects to button up my journey with Codeup.
+🔭 I’m currently working on a capstone project to button up my journey with Codeup.
 
 👀 I’m interested in website design, graphic design, photography, and videography.
 
