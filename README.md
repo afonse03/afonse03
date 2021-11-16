@@ -4,7 +4,7 @@
 
 👀 I’m interested in: website design, graphic design, photography, and videography
 
-📕 Skills: Javascript, HTML, CSS, and JQuery
+📕 Skills: JavaScript, HTML, CSS, and JQuery
 
 🌱 I’m currently learning: the Spring framework, MySQL, and other back-end languages
 
