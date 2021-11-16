@@ -1,16 +1,20 @@
-### Hi there 👋 I'm Amanda Fonseca
+### Hi there, I'm Amanda Fonseca 👋
 
-🔭 I’m currently working on: capstone projects to button up my journey with Codeup
+🔭 I’m currently working on capstone projects to button up my journey with Codeup.
 
-👀 I’m interested in: website design, graphic design, photography, and videography
+👀 I’m interested in website design, graphic design, photography, and videography.
 
-📕 Skills: JavaScript, HTML, CSS, and JQuery
+📕 Skills: JavaScript, HTML, CSS, and JQuery.
 
-🌱 I’m currently learning: the Spring framework, MySQL, and other back-end languages
+👯 I’m looking to collaborate on anything that will help me become a better software developer.
 
-📫 How to reach me: amanda.m.fonseca03@gmail.com
+🌱 I’m currently working on strengthing my skills in front-end and back-end development through Udemy courses.
 
-⚡ Fun fact: when I have spare time, I love to drag race my 2010 Mustang GT named Black Widow
+💬 Ask me about my journey from the zoo world to the tech industry.
+
+📫 You can reach me through email at amanda.m.fonseca03@gmail.com.
+
+⚡ Fun fact: when I have spare time, I love to drag race my 2010 Mustang GT named Black Widow.
 
 <!--
 **afonse03/afonse03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
