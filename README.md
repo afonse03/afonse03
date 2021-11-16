@@ -1,10 +1,15 @@
 ### Hi there 👋 I'm Amanda Fonseca
 
 🔭 I’m currently working on: capstone projects to button up my journey with Codeup
+
 👀 I’m interested in: website design, graphic design, photography, and videography
+
 📕 Skills: Javascript, HTML, CSS, and JQuery
+
 🌱 I’m currently learning: the Spring framework, MySQL, and other back-end languages
+
 📫 How to reach me: amanda.m.fonseca03@gmail.com
+
 ⚡ Fun fact: when I have spare time, I love to drag race my 2010 Mustang GT named Black Widow
 
 <!--
